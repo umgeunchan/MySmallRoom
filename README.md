@@ -9,7 +9,8 @@ MySmallRoom은 사용자가 3D 공간에서 가구를 자유롭게 배치하고,
 
 | 메인 레지스트리 (홈) | 3D 편집 및 IoT 제어 |
 | :---: | :---: |
-| ![Home Screenshot](./screenshots/home.png) | ![Editor Screenshot](./screenshots/editor.png) |
+| ![Home Screenshot](./smart-room-3d/screenshots/home.png)
+![Editor Screenshot](./smart-room-3d/screenshots/editor.png)|
 | *저장된 방 목록을 관리하는 홈 화면* | *가구 배치 및 조명 속성 편집 화면* |
 
 ---
